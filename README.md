@@ -1,0 +1,2 @@
+# CodeClauseInternship_ResponsiveLandingPage
+CodeClause Landing Page
